@@ -1,0 +1,28 @@
+---
+title: Spectral
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: youremailaddress@gmail.com
+description: The Jekyll version of the Spectral theme by HTML5 UP.
+baseurl: "/spectral-jekyll-theme"
+url: 
+tiles-source: posts
+tiles-count: 3
+featured-image-source: 
+500px_url: 
+facebook_url: 
+github_url: 
+gitlab_url: https://gitlab.com/u/andrewbanchich
+googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url: 
+slack_url: 
+twitter_url: https://twitter.com/andrewbanchich
+markdown: kramdown
