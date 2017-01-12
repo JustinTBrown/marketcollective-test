@@ -1,6 +1,7 @@
 ---
 title: Market Collective
 position: 0
+banner-image: "/uploads/banner.jpg"
 section-one-title: Arcu aliquet vel lobortis ata nisl <br/> eget augue amet aliquet
   nisl cep donec
 section-one-content: Vestibulum dapibus iaculis turpis quis ultrices. Quisque molestie
