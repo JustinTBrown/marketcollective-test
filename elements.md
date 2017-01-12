@@ -1,8 +1,8 @@
 ---
-title: Elements
+title: Page 2
 position: 2
-layout: page
 description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+layout: page
 ---
 
 <section>
