@@ -1,7 +1,8 @@
 ---
 title: Market Collective
-description: Pellentesque ultrices nunc non<br />ut aliquet lectus<br />crafted by
-  <a href="#">Vivamus aliquam</a>.
+description: 
+section-one-title: Arcu aliquet vel lobortis ata nisl
 layout: home
 ---
 
+Pellentesque ultrices nunc non<br />ut aliquet lectus<br />crafted by <a href="#">Vivamus aliquam</a>.
