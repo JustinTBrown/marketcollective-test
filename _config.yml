@@ -10,7 +10,6 @@ collections:
     output: true
 email: youremailaddress@gmail.com
 description: The Jekyll version of the Spectral theme by HTML5 UP.
-# baseurl: "/spectral-jekyll-theme"
 baseurl: "/"
 url: 
 tiles-source: posts
@@ -28,5 +27,4 @@ slack_url:
 twitter_url: https://twitter.com/andrewbanchich
 markdown: kramdown
 sass:
-    sass_dir: _sass
-#     css_dir: _site/assets/css
+  sass_dir: _sass
