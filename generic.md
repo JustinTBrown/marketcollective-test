@@ -1,8 +1,8 @@
 ---
-title: Generic
+title: Page 1
 position: 1
-layout: page
 description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+layout: page
 ---
 
 ### Lorem ipsum dolor
