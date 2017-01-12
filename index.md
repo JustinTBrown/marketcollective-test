@@ -1,8 +1,12 @@
 ---
 title: Market Collective
-description: 
+position: 0
 section-one-title: Arcu aliquet vel lobortis ata nisl <br/> eget augue amet aliquet
-  nisl <br/> cep donec
+  nisl cep donec
+section-one-content: Vestibulum dapibus iaculis turpis quis ultrices. Quisque molestie
+  magna sit amet magna blandit, ut cursus lacus placerat. Pellentesque lacinia ante
+  vitae neque ullamcorper, sit amet luctus magna feugiat. Praesent eu leo non velit
+  aliquet placerat. Duis eget nulla sit amet urna porta consequat vitae non justo.
 layout: home
 ---
 

@@ -11,6 +11,12 @@ GEM
     colorator (1.1.0)
     ffi (1.9.14)
     forwardable-extended (2.6.0)
+    httmultiparty (0.3.16)
+      httparty (>= 0.7.3)
+      mimemagic
+      multipart-post
+    httparty (0.14.0)
+      multi_xml (>= 0.5.2)
     jekyll (3.3.1)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -32,9 +38,14 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    mimemagic (0.3.2)
+    multi_xml (0.6.0)
+    multipart-post (2.0.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
+    psych (2.0.8)
     public_suffix (2.0.5)
+    rack (2.0.1)
     rake (10.5.0)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
@@ -42,6 +53,11 @@ GEM
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.23)
+    siteleaf (2.0.1)
+      httmultiparty (>= 0.3.13)
+      httparty (>= 0.13.3)
+      psych (= 2.0.8)
+      rack
 
 PLATFORMS
   ruby
@@ -50,6 +66,7 @@ DEPENDENCIES
   bundler (~> 1.12)
   jekyll
   rake (~> 10.0)
+  siteleaf (~> 2)
   spectral_jekyll_theme!
 
 BUNDLED WITH
