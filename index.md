@@ -1,8 +1,7 @@
 ---
-title: Home
-description: Another very fine responsive<br />site template freebie<br />crafted
-  by <a href="http://html5up.net">HTML5 UP</a>.
+title: Market Collective
+description: Pellentesque ultrices nunc non<br />ut aliquet lectus<br />crafted by
+  <a href="#">Vivamus aliquam</a>.
 layout: home
 ---
 
-Test
