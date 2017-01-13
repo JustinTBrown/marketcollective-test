@@ -2,6 +2,9 @@
 title: Market Collective
 timezone: America/Denver
 collections:
+  artist:
+    title: Artist
+    output: true
   posts:
     title: Posts
     output: true
