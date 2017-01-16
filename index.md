@@ -11,4 +11,4 @@ section-one-content: Vestibulum dapibus iaculis turpis quis ultrices. Quisque mo
 layout: home
 ---
 
-Pellentesque ultrices nunc non<br />ut aliquet lectus<br />crafted by <a href="#">Vivamus aliquam</a>.
+Pellentesque very ultrices nunc non<br />ut aliquet lectus<br />crafted by <a href="#">Vivamus aliquam</a>.
